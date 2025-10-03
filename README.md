@@ -1,6 +1,7 @@
 # PowerShell
 
-<img width="500" height="300" alt="powershell" src="https://github.com/user-attachments/assets/f1b2859d-c343-4b92-b3f3-fcde33193874" />
+<img width="952" height="318" alt="powershell (1)" src="https://github.com/user-attachments/assets/0065bd06-730d-46c4-a1e1-581fa55d9e6a" />
+
 
 
 Supports de cours Powershell reprenant les bases de ce langage de scripting
